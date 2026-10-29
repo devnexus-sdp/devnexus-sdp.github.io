@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.angular/
+.idea/
+.junie/
+.DS_Store
+# old placeholder template, not used by the site
+resume-template.pdf
